@@ -16,7 +16,7 @@ I am a PhD student in Biomedical Engineering at [Shanghai Jiao Tong University](
 Lab | Mentor | Time | Research topic
 -----|-------|-------- |--------
 State Key Laboratory of Microbial Metabolism, SJTU | Undergraduate Researcher, advised by Prof. [Wei Ma](http://mml.sjtu.edu.cn/Data/View/312?showtype=view) | July 2019 - September 2020 | Rapid Detection of Pathogenic Bacteria Based on Whole Genome Sequence
-Pediatric Translational Medicine Institute, Shanghai Children's Medical Center, SJTU-SM | Undergraduate Researcher, advised by Prof. [Binbing Zhou](http://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?uid=9DFC6A44-1940-49E4-8769-C4CBB1B4A10E&from=s&pId=&tId=731) | September 2020 - June 2022 | Chemotherapy drug resistance in MMR‑deficient B cell‑acute lymphoblastic leukemia
+Pediatric Translational Medicine Institute, Shanghai Children's Medical Center, SJTU-SM | Undergraduate Researcher, advised by Prof. [Bin-Bing S. Zhou](http://daoshi.shsmu.edu.cn/Pages/TeacherInformationView.aspx?uid=9DFC6A44-1940-49E4-8769-C4CBB1B4A10E&from=s&pId=&tId=731) | September 2020 - June 2022 | Chemotherapy drug resistance in MMR‑deficient B cell‑acute lymphoblastic leukemia
 Institute of Medical Robotics, SJTU | PhD, advised by Prof. [Guang-Zhong Yang](https://bme.sjtu.edu.cn/Web/FacultyDetail/636) | September 2022 - | Micro/Nano robotics, Acoustics
 
 ## Publications
