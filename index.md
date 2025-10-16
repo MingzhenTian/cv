@@ -42,7 +42,7 @@ Year | Scholarships | Issued by
 2021 | Zhiyuan Honorary Scholarship  | Shanghai Jiao Tong University Zhiyuan college
 2024 | Yaojia Scholarship  | Shanghai Jiao Tong University
 
-**Competition**
+**Awards**
 
 Year | Awards
 -----|-------
