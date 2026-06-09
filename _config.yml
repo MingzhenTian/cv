@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 
-footer_text: "Page designed by MingzhenTian"
+footer_text: "Acknowledgement: forked from ankitsultana/researcher"
 
 sass:
     style: compressed
